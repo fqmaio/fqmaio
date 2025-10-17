@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, my name is Franco Maio</h1>
+<h1 align="center">Hi, I'm Franco</h1>
 <h3 align="center">I am a developer from Argentina</h3>
 
-- 🔭 I’m currently working on [projects related to ESP32](https://github.com/FranqitoRK/practicas-esp32)
+- 🚧 I’m currently working on [projects related to ESP32](https://github.com/fqmaio/practicas-esp32)
 
-- 👨‍💻 All of my projects are available at [https://github.com/FranqitoRK?tab=repositories](https://github.com/FranqitoRK?tab=repositories)
+- 🗂️ Some of my projects are up online at [https://github.com/fqmaio?tab=repositories](https://github.com/fqmaio?tab=repositories)
 
-- 📫 How to reach me **franco.a.maio@gmail.com**
+- 📨 You can reach me via my email, **franco.a.maio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
